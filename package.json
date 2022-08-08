@@ -1,0 +1,25 @@
+{
+  "name": "bleu-cp02",
+  "version": "1.0.0",
+  "description": "a practice repo for CP02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BleuHere/bleu-CP02.git"
+  },
+  "author": "Bleuette Hille",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BleuHere/bleu-CP02/issues"
+  },
+  "homepage": "https://github.com/BleuHere/bleu-CP02#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  },
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4"
+  }
+}
